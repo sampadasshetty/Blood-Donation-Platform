@@ -18,7 +18,7 @@ These are the **essential 3 packages** your project needs. The others are option
 
 ## **Where Should This File Go?**
 ```
-Blood-Donation-Platform/
+Blood-Request-Platform/
 ├── requirements.txt  ← HERE (in the root folder)
 ├── src/
 │   ├── PES2UG23CS522_PES2UG23CS467_H_Blood_Request_Platform.py
