@@ -51,7 +51,7 @@ A comprehensive desktop application for managing blood donations, requests, and 
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Blood-Donation-Platform.git
+git clone https://github.com/sampadasshetty/Blood-Donation-Platform.git
 cd Blood-Donation-Platform
 ```
 
@@ -265,7 +265,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For queries and support:
 - Create an issue on GitHub
-- Email: your.email@example.com
+- Email: sampadasam3003@gmail.com
 
 ## 🙏 Acknowledgments
 
