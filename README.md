@@ -51,8 +51,8 @@ A comprehensive desktop application for managing blood donations, requests, and 
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/sampadasshetty/Blood-Donation-Platform.git
-cd Blood-Donation-Platform
+git clone https://github.com/sampadasshetty/Blood-Request-Platform.git
+cd Blood-Request-Platform
 ```
 
 ### Step 2: Install Dependencies
@@ -131,7 +131,7 @@ The platform uses 8 main tables:
 ## 📁 Project Structure
 
 ```
-Blood-Donation-Platform/
+Blood-Request-Platform/
 │
 ├── src/
 │   ├── PES2UG23CS522_PES2UG23CS467_H_Blood_Request_Platform.py  # Main application
