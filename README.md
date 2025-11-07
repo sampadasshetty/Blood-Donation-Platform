@@ -70,11 +70,11 @@ USE mini_project;
 ```
 4. Import the SQL file:
 ```bash
-mysql -u root -p mini_project < src/PES2UG23CS522_PES2UG23CS467_H_Bood_Request_Platform.sql
+mysql -u root -p mini_project < src/PES2UG23CS522_PES2UG23CS467_H_Blood_Request_Platform.sql
 ```
 
 ### Step 4: Configure Database Connection
-Edit the database credentials in `src/PES2UG23CS522_PES2UG23CS467_H_Bood_Request_Platform.py`:
+Edit the database credentials in `src/PES2UG23CS522_PES2UG23CS467_H_Blood_Request_Platform.py`:
 ```python
 self.db = mysql.connector.connect(
     host="localhost",
@@ -86,7 +86,7 @@ self.db = mysql.connector.connect(
 
 ### Step 5: Run the Application
 ```bash
-python src/PES2UG23CS522_PES2UG23CS467_H_Bood_Request_Platform.py
+python src/PES2UG23CS522_PES2UG23CS467_H_Blood_Request_Platform.py
 ```
 
 ## 🗄️ Database Setup
@@ -134,8 +134,8 @@ The platform uses 8 main tables:
 Blood-Donation-Platform/
 │
 ├── src/
-│   ├── PES2UG23CS522_PES2UG23CS467_H_Bood_Request_Platform.py  # Main application
-│   └── PES2UG23CS522_PES2UG23CS467_H_Bood_Request_Platform.sql # Database schema
+│   ├── PES2UG23CS522_PES2UG23CS467_H_Blood_Request_Platform.py  # Main application
+│   └── PES2UG23CS522_PES2UG23CS467_H_Blood_Request_Platform.sql # Database schema
 │
 ├── docs/
 │   └── documentation.pdf
